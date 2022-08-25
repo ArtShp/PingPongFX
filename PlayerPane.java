@@ -28,7 +28,6 @@ public class PlayerPane extends Pane {
         racket.setWidth(RACKET_WIDTH);
         racket.setHeight(RACKET_HEIGHT);
         racket.setFill(Color.DODGERBLUE);
-        //racket.setStroke(Color.BLACK);
 
         racket.setLayoutY(getHeight()/2);
         goUp = basicGoUp;
